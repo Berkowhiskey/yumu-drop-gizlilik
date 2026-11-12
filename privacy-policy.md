@@ -2,7 +2,7 @@
 
 [Türkçe](gizlilik-politikasi.md) · [Deleting your data](#delete)
 
-Last updated: 4 November 2026
+Last updated: 13 November 2026
 
 Yumu Drop is developed under the **YEETS! Games** brand. For privacy
 questions and deletion requests, contact
@@ -15,7 +15,7 @@ questions and deletion requests, contact
 
 ## In short
 
-You can play Yumu Drop offline and without an account. Joining the TESTERS
+You can play Yumu Drop offline and without an account. Joining the tester
 leaderboard is optional. When you select **JOIN** (KATIL), the game creates
 an anonymous account for you and your score is stored on a server abroad.
 The game has no ads or analytics, and we do not sell your data.
@@ -30,10 +30,10 @@ refresh token, nickname selection and highest score awaiting submission
 on your device. Uninstalling the game or clearing app data removes local
 records. For the server account, follow the [deletion steps](#delete).
 
-## When you join the TESTERS leaderboard
+## When you join the tester leaderboard
 
-Use **Records → TESTERS (TESTERLAR) → JOIN (KATIL)** to connect to Supabase
-over HTTPS. Your account uses a randomly generated unique identifier.
+When you tap **JOIN** (KATIL) on the globe tab of the **LEADERBOARDS**
+(REKORLAR) screen, the game connects to Supabase over HTTPS. Your account uses a randomly generated unique identifier.
 Account creation and leaderboard participation require no real name,
 email, phone number or location. Nicknames come from built-in word lists.
 
@@ -52,6 +52,7 @@ email, phone number or location. Nicknames come from built-in word lists.
 - Other leaderboard participants may receive your nickname, Yumu number,
   score, rank and the UTC day of the score. The leaderboard does not
   provide your account ID, session tokens or IP address to other players.
+  The list may show the top 10 and up to 10 players in your own ranking group.
 
 **STOP SHARING** (PAYLAŞIMI DURDUR) stops new score submissions. Use
 **DELETE MY DATA** (VERİLERİMİ SİL) to remove the account and its score entry.
@@ -67,7 +68,7 @@ use it to assess and respond to your request.
 Supabase Inc. provides the leaderboard infrastructure. The project's
 database is hosted in Stockholm, Sweden. Leaderboard and session data
 sent to the service from Türkiye are processed abroad. This transfer takes
-place only when you choose to join the TESTERS leaderboard, at a point where
+place only when you choose to join the tester leaderboard, at a point where
 this notice is available to you. The legal characterisation under Articles 5
 and 9 of the Turkish KVKK will be settled with expert advice and added to
 this text before production release.
@@ -90,8 +91,8 @@ updated before such a change takes effect.
 
 ## Deleting your data
 
-**In the game:** Use Records → TESTERS → **DELETE MY DATA**
-(VERİLERİMİ SİL) and tap again to confirm. When deletion succeeds, the
+**In the game:** On the globe tab of the **LEADERBOARDS** (REKORLAR)
+screen, tap **DELETE MY DATA** (VERİLERİMİ SİL) and tap again to confirm. When deletion succeeds, the
 anonymous account and its associated active score, nickname and session
 records are removed. To remove local records and settings, clear the app's
 data or uninstall the game.

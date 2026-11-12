@@ -2,7 +2,7 @@
 
 [English](privacy-policy.md) · [Verilerini silme](#silme)
 
-Son güncelleme: 4 Kasım 2026
+Son güncelleme: 13 Kasım 2026
 
 Yumu Drop, **YEETS! Games** markasıyla geliştirilir. Gizlilik ve veri silme
 başvuruları için [yeetsgames45@gmail.com](mailto:yeetsgames45@gmail.com)
@@ -14,7 +14,7 @@ adresine ulaşabilirsin.
 
 ## Kısaca
 
-Yumu Drop'u internet bağlantısı ve hesap olmadan oynayabilirsin. TESTERLAR
+Yumu Drop'u internet bağlantısı ve hesap olmadan oynayabilirsin. Tester
 sıralamasına katılmak isteğe bağlıdır. **KATIL** seçeneğini kullandığında
 oyun senin için anonim bir hesap oluşturur ve skorun yurt dışındaki bir
 sunucuda saklanır. Oyunda reklam veya analitik bulunmaz ve verilerini
@@ -30,10 +30,10 @@ iyi skor da cihazında saklanır. Uygulamayı kaldırmak veya verilerini
 temizlemek yerel kayıtları kaldırır. Sunucudaki hesap için [silme adımlarını
 izle](#silme).
 
-## TESTERLAR sıralamasına katıldığında
+## Tester sıralamasına katıldığında
 
-**Rekorlar → TESTERLAR → KATIL** ile oyun HTTPS üzerinden Supabase'e
-bağlanır. Hesap rastgele oluşturulan benzersiz bir kimlikle tanınır. Hesabı
+**REKORLAR** ekranının dünya simgeli sekmesinde **KATIL** seçeneğine
+dokunduğunda oyun HTTPS üzerinden Supabase'e bağlanır. Hesap rastgele oluşturulan benzersiz bir kimlikle tanınır. Hesabı
 oluşturmak veya sıralamada yer almak için gerçek ad, e-posta, telefon veya
 konum istenmez. Takma ad oyun içindeki hazır kelime listelerinden seçilir.
 
@@ -50,7 +50,8 @@ konum istenmez. Takma ad oyun içindeki hazır kelime listelerinden seçilir.
   gönderimi ve sıralama erişimi oturumla ilişkilendirilir.
 - Sıralamaya katılan diğer oyunculara takma ad, Yumu numarası, puan, sıra ve
   skorun UTC günü sunulabilir. Hesap kimliği, oturum anahtarları ve IP adresi
-  sıralama listesine verilmez.
+  sıralama listesine verilmez. Liste, ilk 10 oyuncuyu ve oyuncunun kendi
+  sıralama grubundaki en çok 10 oyuncuyu gösterebilir.
 
 **PAYLAŞIMI DURDUR** yeni skor gönderimini kapatır. Mevcut hesabı ve
 sıralama satırını silmek için **VERİLERİMİ SİL** seçeneğini kullan.
@@ -66,7 +67,7 @@ sonucunu bildirmek için kullanılır.
 Sıralama için hizmet sağlayıcımız Supabase Inc.'dir. Projenin veritabanı
 İsveç'in Stockholm bölgesindedir. Türkiye'den bu hizmete gönderilen
 sıralama ve oturum bilgileri yurt dışında işlenir. Bu aktarım yalnızca
-TESTERLAR sıralamasına katılmayı seçtiğinde ve bu bilgilendirmeye
+tester sıralamasına katılmayı seçtiğinde ve bu bilgilendirmeye
 ulaşabileceğin bir noktadan sonra gerçekleşir. KVKK madde 5 ve madde 9
 kapsamındaki hukuki nitelendirme, üretim yayını öncesinde uzman görüşüyle
 kesinleştirilip bu metne işlenecektir.
@@ -89,8 +90,8 @@ politika, değişiklik uygulanmadan önce güncellenir.
 
 ## Verilerini silme
 
-**Oyunda:** Rekorlar → TESTERLAR → **VERİLERİMİ SİL** yolunu izle ve
-ikinci dokunuşla onayla. İşlem başarılı olursa anonim hesabın ve ilişkili
+**Oyunda:** **REKORLAR** ekranının dünya simgeli sekmesinde **VERİLERİMİ
+SİL** seçeneğine dokun ve ikinci dokunuşla onayla. İşlem başarılı olursa anonim hesabın ve ilişkili
 aktif skor, takma ad ve oturum kayıtların silinir. Yerel rekorlarını ve
 ayarlarını kaldırmak için uygulama verilerini temizleyebilir veya oyunu
 kaldırabilirsin.
